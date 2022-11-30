@@ -17,7 +17,7 @@
 [rewrite_local]
 
 # ～ TopWidgets☆永久VIP（2022-10-30）@ddgksf2013
-^https?:\/\/.*xiaozujian\.com\/api\/app\/config\/userConfig url script-response-body https://github.com/zbw568/QuanX/edit/Script/topwidgets.js
+^https?:\/\/.*xiaozujian\.com\/api\/app\/config\/userConfig url script-response-body https://ocd0522.tk/ddgksf2013/Cuttlefish/raw/branch/master/Crack/topwidgets.js
 
 [mitm]
 
